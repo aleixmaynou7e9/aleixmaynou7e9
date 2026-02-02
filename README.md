@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
+  
+# Aleix Maynou Gómez
 
-<!--
-**aleixmaynou7e9/aleixmaynou7e9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+## 👋 Sobre mí
+Soy una persona curiosa y apasionada por la tecnología. Me gusta aprender constantemente, construir proyectos prácticos y mejorar mis habilidades en desarrollo de software. Disfruto trabajar en equipo, resolver problemas y compartir lo que aprendo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️Tecnologias
+- SQL
+- C#
+- Python
+- JavaScript
+- HTML
+- CSS
+- Kotlin
+- Blender⁩
+
+## 📞Contactame
+- E-mail: [aleixmaynou@gmail.com](mailto:aleixmaynou@gmail.com)
+- Teléfono: +34 699 171 291
+- Linkedin: [Aleix Maynou Gómez](https://www.linkedin.com/in/aleix-maynou-g%C3%B3mez-b13209395/)⁩
+
+## 📊Stats
+![aleixmaynou7e9's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleixmaynou7e9&show_icons=true)
